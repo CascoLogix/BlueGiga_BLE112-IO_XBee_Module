@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-may-01 BZR unknown)-product   date = 7/9/2015 5:54:25 PM
+
+BeginCmp
+TimeStamp = /52771F50;
+Reference = C1;
+ValeurCmp = 1u;
+IdModule  = Passive:C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52771F6F;
+Reference = C2;
+ValeurCmp = 1u;
+IdModule  = Passive:C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52771F7A;
+Reference = C3;
+ValeurCmp = 1u;
+IdModule  = Passive:C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5266027A;
+Reference = C4;
+ValeurCmp = 4.7u;
+IdModule  = Passive:C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52660266;
+Reference = C5;
+ValeurCmp = 4.7u;
+IdModule  = Passive:C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52771E69;
+Reference = C6;
+ValeurCmp = 0.47u;
+IdModule  = Passive:C0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /559350D6;
+Reference = J1;
+ValeurCmp = CONNECTOR_USB_TYPE_MINI_B;
+IdModule  = Connector:CONNECTOR_USB_TYPE_MINI_B_RA_F_SMT_MOLEX;
+EndCmp
+
+BeginCmp
+TimeStamp = /52660248;
+Reference = P1;
+ValeurCmp = XBEE HEADER;
+IdModule  = Header:HEADER_50MIL_2R10P_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /553AE09D;
+Reference = P2;
+ValeurCmp = DEBUG;
+IdModule  = Header:HEADER_50MIL_2R10P_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /559EF5BE;
+Reference = P3;
+ValeurCmp = HEADER_M_2.54MM_2R20P_ST_AU_PTH;
+IdModule  = Header:HEADER_100MIL_2R20P_EDGE;
+EndCmp
+
+BeginCmp
+TimeStamp = /55935609;
+Reference = R1;
+ValeurCmp = 33;
+IdModule  = Passive:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5593563B;
+Reference = R2;
+ValeurCmp = 33;
+IdModule  = Passive:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52578A70;
+Reference = U1;
+ValeurCmp = BLE112-A;
+IdModule  = RF_Modules:BLE112;
+EndCmp
+
+BeginCmp
+TimeStamp = /559354C3;
+Reference = U2;
+ValeurCmp = AAT3221;
+IdModule  = Active:SOT23-5_SMT;
+EndCmp
+
+EndListe
