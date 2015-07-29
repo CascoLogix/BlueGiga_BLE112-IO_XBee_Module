@@ -1,4 +1,4 @@
-update=6/28/2015 9:45:13 PM
+update=7/28/2015 7:40:53 PM
 version=1
 last_client=kicad
 [cvpcb]
@@ -62,19 +62,6 @@ LibName24=C:/Engineering/KiCAD_Libraries/PCB/Switch
 LibName25=C:/Engineering/KiCAD_Libraries/PCB/Terminal_Block
 LibName26=C:/Engineering/KiCAD_Libraries/PCB/Test_Point
 LibName27=C:/Engineering/KiCAD_Libraries/PCB/Wire_to_Board
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -125,3 +112,13 @@ LibName43=C:/Engineering/KiCAD_Libraries/Schematic/Terminal_Block
 LibName44=C:/Engineering/KiCAD_Libraries/Schematic/Test_Point
 LibName45=C:/Engineering/KiCAD_Libraries/Schematic/TI_Luminary
 LibName46=C:/Engineering/KiCAD_Libraries/Schematic/TI_MSP430
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=P:/Engineering_SECURE/Projects/Bluetooth_LE/BlueGiga_BLE112-IO_XBee_Module/Hardware/Drawing/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
